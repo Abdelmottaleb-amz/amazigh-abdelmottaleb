@@ -109,15 +109,7 @@ class SoftwareDataEngineer:
 
 ---
 
-### 🦯 Guidor – Smart Cane for the Visually Impaired
-> IoT + AI project helping visually impaired people navigate safely.
 
-**Hardware:** Raspberry Pi · Ultrasonic & Infrared sensors · GPS · Pi NoIR Camera · Vibration motor
-
-- 🚧 Obstacle detection & smart navigation
-- 📱 Mobile connectivity
-
----
 
 ## 📈 What I Love Building
 
@@ -127,26 +119,11 @@ class SoftwareDataEngineer:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amazigh-abdelmottaleb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amazigh-abdelmottaleb&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=amazigh-abdelmottaleb&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌍 Connect With Me
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/abdelmottalebamazigh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelmottalebamazigh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amazigh-abdelmottaleb)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amazigh-abdelmottaleb)
 
 </div>
