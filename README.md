@@ -61,17 +61,6 @@ class SoftwareDataEngineer:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaalioussama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaalioussama&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=amaalioussama&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -81,12 +70,9 @@ class SoftwareDataEngineer:
 
 [![Email](https://img.shields.io/badge/abdelmottalebamazigh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelmottalebamazigh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amazigh-abdelmottaleb)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amaalioussama)
+
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=amaalioussama&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-
 *"Engineering intelligent data pipelines — from raw bytes to business insight."*
 
 </div>
