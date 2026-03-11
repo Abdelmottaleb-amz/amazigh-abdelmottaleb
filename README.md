@@ -2,12 +2,13 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║     AMAZIGH ABDELMOTTALEB  ·  SOFTWARE & DATA ENGINEER          ║
-║                    Morocco  🇲🇦                     
+║                AMAZIGH ABDELMOTTALEB                             ║
+║              SOFTWARE & DATA ENGINEER                            ║
+║                      Morocco 🇲🇦                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Engineering+Student;Big+Data+·+GCP+Cloud+·+ETL+Pipelines;Apache+Spark+·+Kafka+·+Airflow;Turning+Raw+Data+into+Scalable+Intelligence+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+%26+Data+Engineering+Student;Big+Data+·+Cloud+·+Machine+Learning;Apache+Spark+·+Kafka+·+Airflow;Building+Scalable+Data+Pipelines+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,12 +18,38 @@
 
 ```python
 class SoftwareDataEngineer:
+
     name       = "Amazigh Abdelmottaleb"
+    location   = "Morocco 🇲🇦"
     email      = "abdelmottalebamazigh@gmail.com"
-    education  = " Software & DataEngineer ·"
-    passion    = ["Data Engineering", "Cloud GCP", "Big Data", "Machine Learning"]
-    expertise  = ["ETL Pipelines", "Data Integration", "SQL/NoSQL", "REST APIs"]
-    available  = True  # Open to collaboration & opportunities
+
+    education  = "Software & Data Engineering Student"
+    university = "Ibn Tofail University"
+
+    passions   = [
+        "Data Engineering",
+        "Big Data",
+        "Machine Learning",
+        "Cloud Computing",
+        "Artificial Intelligence"
+    ]
+
+    expertise  = [
+        "ETL Pipelines",
+        "Data Integration",
+        "SQL / NoSQL Databases",
+        "REST APIs",
+        "Fullstack Development"
+    ]
+
+    current_focus = [
+        "Apache Spark",
+        "Apache Airflow",
+        "Distributed Data Systems",
+        "MLOps"
+    ]
+
+    available  = True
 ```
 
 ---
@@ -34,7 +61,7 @@ class SoftwareDataEngineer:
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white)
 ![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### ⚙️ ETL & Data Engineering
+### ⚙️ Data Engineering & ETL
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
@@ -44,23 +71,73 @@ class SoftwareDataEngineer:
 ![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 📊 Business Intelligence
+### 📊 Data Analysis & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 📈 Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
-### 💻 Web Development
+### 💻 Fullstack Development
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🐍 Data Science & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+---
+
+## 🚀 Featured Projects
+
+### 🧠 NYC Taxi Tip Prediction
+> Machine learning system predicting whether taxi passengers will give a tip.
+
+- 🔍 Data analysis (EDA) & feature engineering
+- 🤖 Classification models & prediction explanation
+
+**Tech:** `Python` · `Pandas` · `Scikit-learn`
 
 ---
 
+### 🏋️ AI Sports Coach
+> Mobile application generating personalized training and nutrition plans using AI.
+
+**Tech:** `React Native` · `Node.js` · `Express` · `MongoDB` · `Gemini AI API` · `Firebase Auth`
+
+---
+
+### 🦯 Guidor – Smart Cane for the Visually Impaired
+> IoT + AI project helping visually impaired people navigate safely.
+
+**Hardware:** Raspberry Pi · Ultrasonic & Infrared sensors · GPS · Pi NoIR Camera · Vibration motor
+
+- 🚧 Obstacle detection & smart navigation
+- 📱 Mobile connectivity
+
+---
+
+## 📈 What I Love Building
+
+✔ Scalable Data Pipelines &nbsp;&nbsp; ✔ Machine Learning Systems &nbsp;&nbsp; ✔ AI Applications
+
+✔ Cloud Data Platforms &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✔ Intelligent Software Products
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amazigh-abdelmottaleb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amazigh-abdelmottaleb&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=amazigh-abdelmottaleb&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -70,9 +147,16 @@ class SoftwareDataEngineer:
 
 [![Email](https://img.shields.io/badge/abdelmottalebamazigh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelmottalebamazigh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amazigh-abdelmottaleb)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amazigh-abdelmottaleb)
 
+</div>
 
 ---
-*"Engineering intelligent data pipelines — from raw bytes to business insight."*
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=amazigh-abdelmottaleb&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+*"Engineering intelligent data pipelines — from raw data to real-world impact."*
 
 </div>
