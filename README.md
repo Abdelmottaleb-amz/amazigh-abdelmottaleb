@@ -7,7 +7,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Engineering+Student+%40+Ibn+Tofail;Big+Data+·+GCP+Cloud+·+ETL+Pipelines;Apache+Spark+·+Kafka+·+Airflow;Turning+Raw+Data+into+Scalable+Intelligence+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Engineering+Student;Big+Data+·+GCP+Cloud+·+ETL+Pipelines;Apache+Spark+·+Kafka+·+Airflow;Turning+Raw+Data+into+Scalable+Intelligence+🚀)](https://git.io/typing-svg)
 
 </div>
 
