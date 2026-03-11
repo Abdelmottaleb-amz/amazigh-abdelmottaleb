@@ -3,7 +3,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║     AMAZIGH ABDELMOTTALEB  ·  SOFTWARE & DATA ENGINEER          ║
-║     Ibn Tofail University  ·  Morocco  🇲🇦                       ║
+║                    Morocco  🇲🇦                     
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
